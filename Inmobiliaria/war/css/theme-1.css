@@ -843,7 +843,7 @@ header .btn:last-child {
   content: '';
   opacity: 0.3;
   z-index: 2;
-  background-color: #ffffff;
+  background-color: #400040;
 }
 .header-icons {
   padding: 160px 0px;
