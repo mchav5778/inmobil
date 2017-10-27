@@ -434,7 +434,7 @@ nav hr {
   bottom: 7px;
 }
 .logo.logo-wide {
-  max-width: 150px;
+  max-width: 140px;
   bottom: 12px;
   margin-bottom: -6px;
 }
@@ -802,17 +802,12 @@ header .btn:last-child {
   height: 150%;
   top: -20%;
 }
-
-/*banner dimensions*/
 .hero-slider {
   padding: 0px;
-  width: 1600px;
   position: relative;
-  left:150px;
 }
-/*Heigth Banner*/
 .hero-slider .slides li {
-  height: 600px;
+  height: 650px;
   overflow: hidden;
   position: relative;
 }
@@ -840,7 +835,6 @@ header .btn:last-child {
     display: none !important;
   }
 }
-/*space banner*/
 .hero-slider .slides li.overlay:before {
   position: absolute;
   width: 100%;
@@ -849,7 +843,7 @@ header .btn:last-child {
   content: '';
   opacity: 0.3;
   z-index: 2;
-  background-color: #808080;
+  background-color: #222222;
 }
 .header-icons {
   padding: 160px 0px;
@@ -3832,11 +3826,10 @@ footer.short-2 .contact-action:hover {
     margin-left: 0px;
   }
 }
-/*Logo dimensions*/
 .simple-bar .logo {
-  max-width: 280px;
-  max-height: 200px;
-  bottom: -15px;
+  max-width: 800px;
+  max-height: 40px;
+  bottom: 12px;
   -webkit-transition: all .3s ease;
   -moz-transition: all .3s ease;
   transition: all .3s ease;
@@ -3844,10 +3837,8 @@ footer.short-2 .contact-action:hover {
 .simple-bar .social-icons {
   margin-left: 32px;
 }
-/*Top margin*/
 .simple-bar .nav-menu {
-  padding-top: 15px;
-  margin-left: 0px;
+  padding-top: 54px;
   -webkit-transition: all .3s ease;
   -moz-transition: all .3s ease;
   transition: all .3s ease;
